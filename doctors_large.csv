@@ -1,0 +1,501 @@
+doctor_id,first_name,last_name,specialty
+101,Jason,Richard,Orthopedics
+102,Michael,Evans,Neurology
+103,Mike,Ramirez,General Medicine
+104,Michael,Hunt,General Medicine
+105,Ashley,Martinez,Pediatrics
+106,Kathleen,Patrick,General Medicine
+107,Brianna,Martinez,Cardiology
+108,Stacey,Hudson,Orthopedics
+109,Richard,Solis,Neurology
+110,Jeremy,Ramsey,Cardiology
+111,Jodi,Dillon,Orthopedics
+112,Cynthia,Williams,General Medicine
+113,Jennifer,Mcgee,Cardiology
+114,Shelley,Lowe,General Medicine
+115,Brent,Morrison,Cardiology
+116,Alexander,Morrison,Neurology
+117,Frank,Andrews,Orthopedics
+118,James,Moore,General Medicine
+119,Diane,Lowe,General Medicine
+120,Matthew,Mckenzie,Neurology
+121,Jason,King,Pediatrics
+122,Kurt,Ray,Pediatrics
+123,Matthew,Shaw,General Medicine
+124,Brian,Carter,Pediatrics
+125,Kathy,Marquez,Orthopedics
+126,Ernest,Morgan,Pediatrics
+127,Diane,Mills,Cardiology
+128,Jimmy,Oconnell,Cardiology
+129,Matthew,Mccann,General Medicine
+130,Katrina,Calhoun,Neurology
+131,Robert,Smith,Cardiology
+132,Tyrone,Brown,Orthopedics
+133,Mark,Stewart,Neurology
+134,Matthew,Santiago,Cardiology
+135,Rebecca,Ruiz,General Medicine
+136,Thomas,Tucker,Neurology
+137,Jamie,Nicholson,Cardiology
+138,Troy,Bradley,Cardiology
+139,Allen,Hensley,Neurology
+140,Allen,Walker,General Medicine
+141,Julie,Smith,Cardiology
+142,Thomas,Williams,Neurology
+143,Austin,Robles,Orthopedics
+144,Lee,Johnson,General Medicine
+145,Courtney,Edwards,General Medicine
+146,Megan,Gibson,Neurology
+147,Patrick,Ross,Orthopedics
+148,Christopher,Alexander,General Medicine
+149,Andrew,Miller,Pediatrics
+150,Alfred,Buchanan,Cardiology
+151,Regina,Torres,Pediatrics
+152,Laurie,Nelson,Pediatrics
+153,Brandi,Ferguson,Orthopedics
+154,Patricia,Jacobs,Cardiology
+155,Stephen,Chan,Neurology
+156,Sharon,Jackson,Neurology
+157,Jennifer,Williamson,Cardiology
+158,James,Harris,Orthopedics
+159,Joshua,Hernandez,General Medicine
+160,Charles,Shea,Pediatrics
+161,Curtis,Snyder,Cardiology
+162,Corey,Kerr,Neurology
+163,Kevin,Rice,Neurology
+164,Sharon,Perez,Cardiology
+165,Thomas,Nelson,General Medicine
+166,Jacob,Payne,General Medicine
+167,Mary,Knight,General Medicine
+168,Allen,Gonzalez,Cardiology
+169,Mark,Marshall,Neurology
+170,Diana,Payne,Cardiology
+171,Kim,Bartlett,Pediatrics
+172,Robert,Perez,General Medicine
+173,Elizabeth,Smith,Neurology
+174,Jaclyn,Pratt,Neurology
+175,Gregory,Graham,Pediatrics
+176,Emily,Jensen,Cardiology
+177,Anthony,Roberts,Neurology
+178,Mary,Perez,Neurology
+179,Monica,Nichols,Pediatrics
+180,Melissa,Mitchell,Cardiology
+181,John,Berger,Pediatrics
+182,Wayne,Gonzales,Cardiology
+183,Scott,Harris,Pediatrics
+184,Peter,Mcdowell,Pediatrics
+185,Heather,Harris,General Medicine
+186,John,Garcia,Cardiology
+187,Matthew,Lee,General Medicine
+188,Heather,Larsen,Orthopedics
+189,Amber,Nicholson,Pediatrics
+190,Patricia,Wyatt,Cardiology
+191,Emily,French,Orthopedics
+192,Valerie,Cross,Pediatrics
+193,Jean,Davis,Neurology
+194,Justin,Payne,Pediatrics
+195,Carolyn,Tran,Pediatrics
+196,Sarah,Wilson,General Medicine
+197,Chelsea,Holmes,Neurology
+198,Samuel,Davenport,Orthopedics
+199,Derrick,Silva,Orthopedics
+200,Michele,Hodge,General Medicine
+201,Tammie,Hubbard,Cardiology
+202,Jeffrey,Hayes,General Medicine
+203,Bobby,Estes,Orthopedics
+204,Natalie,Rios,Cardiology
+205,William,Alvarado,Pediatrics
+206,Christopher,Anderson,Cardiology
+207,Christina,Mayer,Orthopedics
+208,Nicole,Rodgers,Neurology
+209,Julie,Dawson,Neurology
+210,Chad,Boyd,Neurology
+211,David,Rich,Neurology
+212,Daniel,Michael,Cardiology
+213,Margaret,Greene,Pediatrics
+214,Debbie,Taylor,Neurology
+215,Brian,Anderson,Cardiology
+216,Lisa,Bates,Cardiology
+217,Dustin,Everett,Cardiology
+218,Emma,Wolfe,Cardiology
+219,Emily,Collins,Orthopedics
+220,Cynthia,Porter,Neurology
+221,Brandon,Sandoval,Cardiology
+222,Jose,Booth,Neurology
+223,Edward,Bright,Cardiology
+224,Scott,Thomas,Pediatrics
+225,William,Davis,General Medicine
+226,Deborah,Thompson,Pediatrics
+227,Jesse,Rivera,Pediatrics
+228,Edward,Harris,Pediatrics
+229,Jesse,Wallace,Cardiology
+230,William,Sparks,General Medicine
+231,Jody,Santos,Pediatrics
+232,Carolyn,Zimmerman,General Medicine
+233,Melanie,Myers,Neurology
+234,Tamara,Smith,Cardiology
+235,Zoe,Johnson,Orthopedics
+236,Brandon,Grant,Neurology
+237,Jennifer,Smith,Cardiology
+238,Rebecca,Hester,General Medicine
+239,Elizabeth,Johnson,Pediatrics
+240,Maria,Gregory,Cardiology
+241,Kelly,Ryan,Neurology
+242,Michelle,Cooper,Pediatrics
+243,Brandon,Watkins,Neurology
+244,Shane,Wright,General Medicine
+245,Elizabeth,Wilson,General Medicine
+246,Mary,Smith,Neurology
+247,Donna,Brooks,Orthopedics
+248,David,Perry,Cardiology
+249,Kenneth,Grant,Pediatrics
+250,Cameron,Miller,General Medicine
+251,John,Garcia,Cardiology
+252,Brenda,Baker,Orthopedics
+253,Kevin,Steele,General Medicine
+254,John,Johnson,Neurology
+255,Carl,Daniel,General Medicine
+256,George,Gibbs,Orthopedics
+257,Rachel,Ward,General Medicine
+258,Jessica,Jones,Orthopedics
+259,Sheila,Huffman,Neurology
+260,Charles,Love,Orthopedics
+261,Desiree,Smith,Orthopedics
+262,Scott,Garcia,Cardiology
+263,Lindsay,Martinez,Cardiology
+264,Tony,Bennett,Orthopedics
+265,Dennis,Fleming,Orthopedics
+266,Jessica,Murphy,Neurology
+267,Kristin,Middleton,Cardiology
+268,Stephen,Norris,Pediatrics
+269,Meghan,Nguyen,Neurology
+270,Brady,Robinson,Neurology
+271,Tyler,Chase,Pediatrics
+272,Hector,Martin,Orthopedics
+273,Robert,Nichols,General Medicine
+274,David,Young,General Medicine
+275,Cindy,Garcia,Neurology
+276,Victoria,Christensen,Cardiology
+277,Veronica,Norman,Cardiology
+278,Tiffany,Leon,Cardiology
+279,Samantha,Flynn,Pediatrics
+280,Kara,Wood,Orthopedics
+281,Christina,Dixon,Neurology
+282,Cynthia,Sheppard,General Medicine
+283,Glen,Brennan,Neurology
+284,Lori,Miller,Pediatrics
+285,Kaylee,Wilson,General Medicine
+286,Louis,Evans,Cardiology
+287,Brent,Bennett,Orthopedics
+288,Michele,Hubbard,General Medicine
+289,Vanessa,Andrews,Cardiology
+290,Louis,Spencer,Orthopedics
+291,Stacey,Hopkins,General Medicine
+292,Lori,King,Cardiology
+293,Michelle,Brown,General Medicine
+294,Valerie,Perkins,Orthopedics
+295,Adam,Bush,Cardiology
+296,Alison,Miller,Cardiology
+297,Bryan,Higgins,General Medicine
+298,Tammy,Schwartz,Neurology
+299,Sherry,Hamilton,General Medicine
+300,Charlotte,Thomas,Neurology
+301,Douglas,Gonzalez,Neurology
+302,Richard,Chen,Orthopedics
+303,Chad,Barron,Orthopedics
+304,Beverly,Fisher,Neurology
+305,Jesus,Browning,Orthopedics
+306,Connie,Petersen,Pediatrics
+307,Rachel,Moran,Cardiology
+308,Mary,West,Pediatrics
+309,Steven,Green,Pediatrics
+310,Jennifer,Strickland,Cardiology
+311,Daniel,Dorsey,Cardiology
+312,Daryl,Jones,Cardiology
+313,Andre,Becker,Neurology
+314,Vanessa,Spencer,Neurology
+315,Stacey,Thompson,General Medicine
+316,Tony,Griffith,Neurology
+317,Heather,Hardin,Orthopedics
+318,Christine,Hernandez,Pediatrics
+319,Greg,Snyder,Neurology
+320,David,Diaz,General Medicine
+321,Christina,Glass,Neurology
+322,Austin,Brown,Cardiology
+323,David,Griffin,General Medicine
+324,Jennifer,Bryan,Cardiology
+325,William,Bowen,Pediatrics
+326,Hannah,Bender,Orthopedics
+327,Patrick,Scott,Pediatrics
+328,Robert,Williams,General Medicine
+329,Kathryn,Klein,General Medicine
+330,Denise,Campbell,General Medicine
+331,Joshua,Smith,Orthopedics
+332,Vincent,Cervantes,Pediatrics
+333,Victoria,Hoover,Cardiology
+334,Tonya,Harrison,Cardiology
+335,Erin,Perry,Neurology
+336,Hunter,May,Cardiology
+337,Susan,Allen,Pediatrics
+338,William,Jones,Orthopedics
+339,Joseph,Frey,Pediatrics
+340,Stacy,Harmon,Neurology
+341,Holly,Nunez,Pediatrics
+342,Tracy,Dixon,Orthopedics
+343,Angela,Johnson,Neurology
+344,Jacqueline,Garner,Pediatrics
+345,Jamie,Jensen,Cardiology
+346,Tony,Burton,General Medicine
+347,Virginia,Moran,Cardiology
+348,Chelsea,Smith,Cardiology
+349,Donald,Sanchez,Neurology
+350,Laura,Lewis,Orthopedics
+351,Katrina,Hardin,General Medicine
+352,Michael,Dudley,Orthopedics
+353,Ryan,Smith,Cardiology
+354,Ashley,Gomez,Orthopedics
+355,Justin,Ortiz,Neurology
+356,Brandon,Miller,General Medicine
+357,Deborah,Melton,Orthopedics
+358,Joel,Nguyen,Pediatrics
+359,William,White,Cardiology
+360,Nicole,Ross,Cardiology
+361,Robert,Hammond,Neurology
+362,Troy,Thomas,Orthopedics
+363,Suzanne,Duncan,Orthopedics
+364,Patricia,Shields,Pediatrics
+365,April,Allen,Pediatrics
+366,Penny,Potts,Orthopedics
+367,Robert,Mack,General Medicine
+368,Sydney,Collins,General Medicine
+369,Timothy,Hendricks,Neurology
+370,Regina,Smith,Neurology
+371,Michelle,Olsen,Cardiology
+372,Timothy,Torres,Orthopedics
+373,Zachary,Stewart,Cardiology
+374,David,Williams,General Medicine
+375,Jessica,Hicks,Pediatrics
+376,Jamie,King,Pediatrics
+377,Linda,Stanley,Orthopedics
+378,Gabriel,Castro,Neurology
+379,James,Grant,Cardiology
+380,Christina,Jackson,Pediatrics
+381,Erin,Cole,General Medicine
+382,Cassidy,Hernandez,Orthopedics
+383,Amanda,Webb,Cardiology
+384,Kimberly,Mccoy,Neurology
+385,Amber,Harvey,General Medicine
+386,Michael,Mueller,Pediatrics
+387,Cassandra,Davis,Pediatrics
+388,Nicholas,Newman,Orthopedics
+389,Victoria,Ruiz,Orthopedics
+390,Chad,Martinez,Cardiology
+391,Chad,Coleman,Neurology
+392,Miguel,Bowen,General Medicine
+393,Wendy,Howard,Pediatrics
+394,Christopher,Jimenez,Orthopedics
+395,Sarah,Fowler,Cardiology
+396,Lisa,Cobb,Cardiology
+397,Angela,Hanson,Orthopedics
+398,Randall,Anderson,Neurology
+399,Nicholas,Riley,General Medicine
+400,Melissa,Smith,General Medicine
+401,Jennifer,Macdonald,Cardiology
+402,Bethany,Craig,Cardiology
+403,Philip,Newman,Orthopedics
+404,Julia,Perez,Cardiology
+405,Daniel,Blevins,General Medicine
+406,Joshua,Hood,Orthopedics
+407,William,Duran,General Medicine
+408,John,Price,Orthopedics
+409,Jennifer,Andrews,Neurology
+410,Mark,Wells,Neurology
+411,Morgan,Smith,Neurology
+412,Rebecca,Rodriguez,General Medicine
+413,Alexandria,Dyer,Neurology
+414,Jeremy,Richardson,Neurology
+415,Emily,Thompson,Orthopedics
+416,Kimberly,Jennings,Orthopedics
+417,Michael,Johnson,Pediatrics
+418,Charles,Dudley,Neurology
+419,David,Flores,General Medicine
+420,Ronald,Acosta,Pediatrics
+421,Jennifer,Castillo,Neurology
+422,Billy,Massey,General Medicine
+423,Annette,Kelley,Orthopedics
+424,Melissa,Cruz,Pediatrics
+425,Johnathan,Evans,Cardiology
+426,Jason,Fleming,Cardiology
+427,David,Clark,General Medicine
+428,Daniel,Mills,General Medicine
+429,Sheena,Tate,Orthopedics
+430,Stacy,Williams,Pediatrics
+431,Linda,Ray,Orthopedics
+432,Andres,Martinez,Orthopedics
+433,Karen,Garcia,Cardiology
+434,John,Cowan,Orthopedics
+435,Bryan,Cooper,Orthopedics
+436,Summer,Mcdowell,Neurology
+437,Robin,Stanley,General Medicine
+438,Anthony,Thompson,General Medicine
+439,Samantha,Green,Neurology
+440,Kayla,Knight,Cardiology
+441,Elizabeth,Sandoval,Pediatrics
+442,Nathaniel,Curtis,Neurology
+443,Tonya,Bullock,Orthopedics
+444,Monica,Williams,Pediatrics
+445,Michael,Rollins,Neurology
+446,Robert,Spears,Pediatrics
+447,Jeremy,Sellers,Neurology
+448,Roberta,Murillo,General Medicine
+449,Victoria,Curry,Neurology
+450,Erica,Graves,Pediatrics
+451,Katherine,Mitchell,General Medicine
+452,Angela,Johnson,Cardiology
+453,Robert,Franklin,General Medicine
+454,Philip,Nelson,Cardiology
+455,Morgan,Barton,Cardiology
+456,Gregory,Dunn,General Medicine
+457,Duane,Sims,Orthopedics
+458,Patrick,Phillips,Orthopedics
+459,Michael,Powell,Pediatrics
+460,Angela,Robinson,Orthopedics
+461,Amanda,Zimmerman,Cardiology
+462,William,Cox,Orthopedics
+463,Danielle,Townsend,Pediatrics
+464,Paula,Garrett,Orthopedics
+465,William,Lopez,Neurology
+466,Amanda,Murray,General Medicine
+467,Kelsey,Ewing,Neurology
+468,Jennifer,Nielsen,General Medicine
+469,Donald,Phillips,General Medicine
+470,Kimberly,Foster,Pediatrics
+471,Dorothy,Clark,Neurology
+472,Brandon,Padilla,Neurology
+473,Bill,Vaughn,Cardiology
+474,Robert,Williams,Cardiology
+475,Stephen,Bell,Pediatrics
+476,Eric,Wilson,Neurology
+477,Caitlin,Lee,General Medicine
+478,John,Acevedo,Cardiology
+479,Albert,Price,Pediatrics
+480,Jenna,Campbell,Neurology
+481,John,Parks,Pediatrics
+482,Amy,Baker,Pediatrics
+483,Anthony,Scott,Cardiology
+484,Alan,Jackson,Orthopedics
+485,John,Rollins,Pediatrics
+486,Craig,Webb,General Medicine
+487,Victoria,Morales,General Medicine
+488,Rachel,Carpenter,Neurology
+489,Terrence,Smith,Cardiology
+490,Troy,Obrien,Orthopedics
+491,Carmen,Murillo,Orthopedics
+492,Jason,Page,Pediatrics
+493,Louis,Stark,Orthopedics
+494,Erica,Armstrong,General Medicine
+495,Jack,Moody,Orthopedics
+496,Andrew,Thomas,General Medicine
+497,Christopher,Hunt,Neurology
+498,Grace,King,Cardiology
+499,Carlos,Rogers,General Medicine
+500,Karen,Williams,Orthopedics
+501,Jason,Wilson,Neurology
+502,Rick,Castro,Orthopedics
+503,Gabrielle,Pierce,Orthopedics
+504,William,Welch,Neurology
+505,April,Roach,Cardiology
+506,Jacqueline,Novak,General Medicine
+507,Crystal,Casey,Pediatrics
+508,Kenneth,Brown,Orthopedics
+509,Alison,Clark,Pediatrics
+510,Benjamin,Walker,Cardiology
+511,Michelle,Young,Pediatrics
+512,John,Cannon,Cardiology
+513,Stephanie,Newton,General Medicine
+514,Mary,Hansen,General Medicine
+515,Daniel,Johnson,Pediatrics
+516,James,Higgins,General Medicine
+517,Robin,George,General Medicine
+518,Natalie,Holland,Pediatrics
+519,Stacy,Richardson,Orthopedics
+520,Jessica,Hays,General Medicine
+521,Michael,Chang,Orthopedics
+522,Brian,Morgan,Pediatrics
+523,Sandra,Hardy,Neurology
+524,Lee,Lopez,Neurology
+525,Katherine,Hernandez,Cardiology
+526,Pamela,Porter,Orthopedics
+527,Jennifer,Gamble,General Medicine
+528,Omar,Munoz,General Medicine
+529,Kristen,Underwood,General Medicine
+530,Cynthia,Walker,Pediatrics
+531,Christina,Miller,Orthopedics
+532,Clifford,Lawrence,Pediatrics
+533,Donald,Wright,Neurology
+534,Sheila,Mullen,Orthopedics
+535,Dawn,Wright,Neurology
+536,Abigail,Cantu,Neurology
+537,Michelle,Blake,Neurology
+538,Brandy,Jackson,Orthopedics
+539,Katherine,Reese,General Medicine
+540,Barbara,Perkins,Cardiology
+541,Neil,Adams,General Medicine
+542,Fernando,Cooper,Neurology
+543,Kevin,Perez,Orthopedics
+544,Andrew,Wallace,Pediatrics
+545,Rita,Lopez,Neurology
+546,Andrew,Delacruz,Pediatrics
+547,Leah,Washington,Cardiology
+548,Jennifer,Whitney,Pediatrics
+549,Steven,Johnson,Cardiology
+550,Lisa,Carter,Orthopedics
+551,Eric,Newman,General Medicine
+552,Amy,Melton,Orthopedics
+553,Manuel,Hudson,General Medicine
+554,Kaylee,Hooper,General Medicine
+555,Jason,Dunlap,Orthopedics
+556,Teresa,Boyd,Neurology
+557,Nicholas,Garcia,Cardiology
+558,Julie,Bennett,Orthopedics
+559,Mark,Garrett,Orthopedics
+560,Kimberly,Armstrong,Cardiology
+561,Amanda,Alvarez,General Medicine
+562,James,Fisher,Pediatrics
+563,Chelsea,Santiago,Pediatrics
+564,Paul,Davidson,Pediatrics
+565,Toni,Keller,General Medicine
+566,Joe,Tucker,Cardiology
+567,Ashley,Bell,General Medicine
+568,Brandi,Frank,Neurology
+569,Julia,Spencer,Cardiology
+570,Andrew,Woods,Pediatrics
+571,Matthew,Robinson,Neurology
+572,Monique,Phillips,Pediatrics
+573,Lindsey,Smith,Neurology
+574,George,Walker,Cardiology
+575,Penny,Smith,Orthopedics
+576,Herbert,Evans,Pediatrics
+577,Daniel,Johnson,Neurology
+578,Dan,Alvarado,Orthopedics
+579,Latasha,Lowe,Cardiology
+580,Peter,Mcgee,Orthopedics
+581,Melissa,Green,Orthopedics
+582,Alexander,Sutton,Neurology
+583,Rhonda,Miles,General Medicine
+584,Richard,Curtis,Orthopedics
+585,Michael,Stewart,Neurology
+586,Jacqueline,Nguyen,Pediatrics
+587,Stephanie,Silva,Orthopedics
+588,Robert,Cummings,General Medicine
+589,Michelle,Morales,General Medicine
+590,Aaron,Gutierrez,General Medicine
+591,Christopher,Vega,General Medicine
+592,David,Taylor,General Medicine
+593,Jeffrey,Sheppard,Cardiology
+594,Bradley,Richardson,Cardiology
+595,Shawn,Thompson,Cardiology
+596,Anthony,Reyes,Cardiology
+597,Joseph,Barker,Pediatrics
+598,Heather,Smith,Neurology
+599,Brandon,Moore,Neurology
+600,Christian,Adams,Cardiology
