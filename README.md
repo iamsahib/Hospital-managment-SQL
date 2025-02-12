@@ -1,4 +1,4 @@
-        Project Objective
+Project Objective
 
 
 SQL Healthcare Data Analysis
