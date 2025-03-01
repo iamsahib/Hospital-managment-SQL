@@ -13,3 +13,18 @@ Examine doctor-patient interactions to evaluate workload distribution and effici
 Assess regional healthcare performance by studying province-wise patient data.
 
 Generate reports that provide actionable insights for healthcare management and decision-making.
+
+
+
+Relationships
+
+patients ↔ province_names (Many-to-One via province_id)
+
+patients ↔ admissions (One-to-Many via patient_id)
+
+doctors ↔ admissions (One-to-Many via doctor_id)
+
+patients ↔ images (One-to-Many via patient_id)
+
+doctors ↔ images (One-to-Many via doctor_id)
+
