@@ -1,7 +1,7 @@
-Project Objective
+**Project Objective**
 
 
-SQL Healthcare Data Analysis
+**SQL Healthcare Data Analysis**
 The objective of this project is to analyze healthcare data using SQL to derive meaningful insights about patient admissions, doctor assignments, and provincial healthcare distribution. By leveraging SQL queries, we aim to:
 
 Clean and preprocess raw healthcare data for accurate analysis.
@@ -16,7 +16,7 @@ Generate reports that provide actionable insights for healthcare management and 
 
 
 
-Relationships
+**Relationships**
 
 patients ↔ province_names (Many-to-One via province_id)
 
